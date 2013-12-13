@@ -1,0 +1,6 @@
+bower_components/
+node_modules/
+.bowerrc
+.DS_Store
+*sublime-workspace
+*sublime-project
